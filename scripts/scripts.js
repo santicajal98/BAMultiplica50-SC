@@ -1,0 +1,1 @@
+alert ("Usted esta ingresando a un pagina que vende articulos a personas +18, por favor si es menor cierrela de inmediato")
